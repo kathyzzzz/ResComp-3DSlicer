@@ -1,10 +1,11 @@
 # Welcome!
 
-Welcome to the Research Computing Services 3D Slicer repository. Here you will find some online learning resources which are intended to complement and supplement our in-person workshops. 
+Welcome to the Research Computing Services 3D Slicer repository. 3D Slicer is a free and open source software package for medical image analysis and scientific visualisation. Here you will find online learning resources which are intended to complement our in-person workshops. 
 
 ## 1. Getting started
 
-3D Slicer is a free and open source software package for medical image analysis and scientific visualisation. You can download 3D Slicer at https://www.slicer.org/ A mouse is optional, but recommended.
+You can download 3D Slicer at https://www.slicer.org/ 
+A mouse is optional, but recommended.
 
 ## 2. ResPitch
 
