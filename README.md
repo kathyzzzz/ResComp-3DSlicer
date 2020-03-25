@@ -14,7 +14,7 @@ Download the slides and cheat sheet to get started.
 
 ## 3. Workshops
 
-This presentation is usually delivered as part of our two-hour long workshops. It is intended to walk you through an expanded version of the basics of the program, with challenges to test your learning along the way. These slides go through what medical image data sets are, volume rendering, segmenting techniques, and an overview of 3D printing. NB: Although some of the images are slightly out of date, much of the information remains the same.
+This presentation is usually delivered as part of our two-hour long workshops. It is intended to walk you through an expanded version of the basics of the program, with challenges to test your learning along the way. These slides go through what medical image data sets are, volume rendering, segmenting techniques, and an overview of 3D printing. **NB:** Although some of the images are slightly out of date, much of the information remains the same.
 
 Download the slides to get started.
 
@@ -24,4 +24,4 @@ This [GitBook](https://lassoan.gitbooks.io/test-book/content/) is a great instru
 
 The [3D Slicer wiki](https://www.slicer.org/wiki/Main_Page) is full of interesting information, especially about particular 
 
-There is also a wonderful [3D Slicer discussion forum](https://discourse.slicer.org/) where you can ask questions and meet other people using 3D Slicer as well.
+The [3D Slicer discussion forum](https://discourse.slicer.org/) is a place you can ask questions and meet other people using 3D Slicer as well.
