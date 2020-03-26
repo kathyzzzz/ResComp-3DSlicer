@@ -9,9 +9,9 @@ A mouse is optional, but recommended.
 
 ## 2. ResPitch
 
-This is a short presentation aimed at "pitching" the program. You'll learn what 3D Slicer is, how it can be used, and complete some fun mini-challenges which introduce you to the basics of the program. Some notes have been added to the PowerPoint to help you work through the slides at your own pace, in the comfort of your own home. They should take approximately 30 minutes. 
+This is a short presentation aimed at "pitching" the program. You'll learn what 3D Slicer is, how it can be used, and complete some fun mini-challenges which introduce you to the basics of the program. Some notes have been added to the PowerPoint to help you work through the slides at your own pace, in the comfort of your own home. This should take approximately 30 minutes. 
 
-Download the slides and cheat sheet to get started.
+Download the slides, cheat sheet and bingo card to get started.
 
 ## 3. Workshops
 
