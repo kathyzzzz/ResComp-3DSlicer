@@ -4,8 +4,9 @@ Welcome to the Research Computing Services 3D Slicer repository. 3D Slicer is a 
 
 ## 1. Getting started
 
-You can download 3D Slicer at https://www.slicer.org/ 
-A mouse is optional, but recommended.
+All you'll need is your laptop. A mouse is optional, but recommended.
+
+You can download 3D Slicer at https://www.slicer.org/ The program comes with in-built sample data sets, which are great to practice on. You may also find some free, open-source data sets on the Internet if you look in the right places. However, when embarking on your own projects, please be aware of the strict rules around patient privacy. Confidentiality is paramount, and data should not be shared or taken without explicit consent or authorisation.
 
 ## 2. ResPitch
 
