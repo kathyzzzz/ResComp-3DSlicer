@@ -14,7 +14,7 @@ Download the slides, cheat sheet and checklist to get started.
 
 ## 3. Workshops
 
-This presentation is usually delivered as part of our two-hour long workshops. It is intended to walk you through an expanded version of the basics of the program, with challenges to test your learning along the way. These slides go through what medical image data sets are, volume rendering, segmenting techniques, and an overview of 3D printing. **NB:** Although some of the images are slightly out of date, much of the information remains the same.
+This presentation is usually delivered as part of our two-hour long workshops. It is intended to walk you through an expanded version of the basics of the program, with challenges to test your learning along the way. These slides go through what medical image data sets are, volume rendering, segmenting techniques, and an overview of 3D printing. **Note:** Although some of the images are slightly out of date, much of the information remains the same.
 
 Download the slides to get started.
 
