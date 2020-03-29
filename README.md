@@ -10,13 +10,13 @@ All you'll need is your laptop. A mouse is optional, but recommended. You can do
 
 This is a short presentation aimed at "pitching" the program. You'll learn what 3D Slicer is, how it can be used, and complete some fun mini-challenges which introduce you to the basics of the program. Some notes have been added to the slides to help you work through them at your own pace. This should take approximately 30 minutes. 
 
-Download the slides, cheat sheet and checklist to get started.
+Download the [slides](https://github.com/kathyzzzz/ResComp-3DSlicer/blob/master/RESPITCH-slides.pdf), [cheat sheet](https://github.com/kathyzzzz/ResComp-3DSlicer/blob/master/RESPITCH-cheat-sheet.docx) and [checklist](https://github.com/kathyzzzz/ResComp-3DSlicer/blob/master/RESPITCH-checklist.docx) to get started.
 
 ## 3. Workshops
 
 This presentation is usually delivered as part of our two-hour long workshops. It is intended to walk you through an expanded version of the basics of the program, with challenges to test your learning along the way. These slides go through what medical image data sets are, volume rendering, segmenting techniques, and an overview of 3D printing. **Note:** Although some of the images are slightly out of date, much of the information remains the same.
 
-Download the slides to get started.
+Download the [slides](https://github.com/kathyzzzz/ResComp-3DSlicer/blob/master/WORKSHOP-slides.pdf) to get started.
 
 ## 4. Further resources
 
