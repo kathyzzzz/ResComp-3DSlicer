@@ -22,6 +22,6 @@ Download the [slides](https://github.com/kathyzzzz/ResComp-3DSlicer/blob/master/
 
 This [GitBook](https://lassoan.gitbooks.io/test-book/content/) is a great instructional manual for getting started with 3D Slicer, and complements the workshop.
 
-The [3D Slicer wiki](https://www.slicer.org/wiki/Main_Page) is full of interesting information, especially about particular 
+The [3D Slicer wiki](https://www.slicer.org/wiki/Main_Page) is full of interesting information, especially about particular modules you may be interested in downloading and using.
 
 The [3D Slicer discussion forum](https://discourse.slicer.org/) is a place you can ask questions and meet other people using 3D Slicer as well.
